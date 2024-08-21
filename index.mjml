@@ -5,9 +5,9 @@
 
         <mj-text align="center" text-transform="capitalize" font-weight="400" font-size="18px">
 
-        <a href="https://www.drinktrade.com/pages/find-my-match" style=" color:#31363f; text-decoration: none; ">
-          GET COFFEE
-          </a> 
+          <a href="https://www.drinktrade.com/pages/find-my-match" style=" color:#31363f; text-decoration: none; ">
+            GET COFFEE
+          </a>
         </mj-text>
 
 
@@ -16,20 +16,17 @@
 
       </mj-column>
       <mj-column>
-        <mj-image width="100px" padding="0" src="https://github.com/Marletios/Trade-Promotional-Email/blob/main/assets/TradeLogo.png?raw=true"
-        href="https://www.drinktrade.com"
-        ></mj-image>
+        <mj-image width="100px" padding="0" src="https://github.com/Marletios/Trade-Promotional-Email/blob/main/assets/TradeLogo.png?raw=true" href="https://www.drinktrade.com"></mj-image>
       </mj-column>
 
       <mj-column>
 
-        <mj-text align="center" text-transform="capitalize" font-weight="400" font-size="18px" text-transform="none"
-        >
-           <a href="https://www.drinktrade.com/pages/gifts" style="color:#31363F; text-decoration: none;   
+        <mj-text align="center" text-transform="capitalize" font-weight="400" font-size="18px" text-transform="none">
+          <a href="https://www.drinktrade.com/pages/gifts" style="color:#31363F; text-decoration: none;   
            
            ">SHOP GIFTS</a>
         </mj-text>
-      
+
       </mj-column>
     </mj-section>
 
@@ -37,16 +34,12 @@
 
     <mj-section padding="0">
       <mj-column>
-       
-        <mj-image padding="0" src=" https://github.com/Marletios/Trade-Promotional-Email/blob/main/assets/discountCodeBannerTop.png?raw=true" 
-        href="https://www.drinktrade.com/pages/cold-coffee"
-        >
-           
 
-        </mj-image> 
-        <mj-image padding="0" src="https://github.com/Marletios/Trade-Promotional-Email/blob/main/assets/EndlessSummerHero.png?raw=true"
-        href="https://www.drinktrade.com/pages/cold-coffee"
-        ></mj-image>
+        <mj-image padding="0" src=" https://github.com/Marletios/Trade-Promotional-Email/blob/main/assets/discountCodeBannerTop.png?raw=true" href="https://www.drinktrade.com/pages/cold-coffee">
+
+
+        </mj-image>
+        <mj-image padding="0" src="https://github.com/Marletios/Trade-Promotional-Email/blob/main/assets/EndlessSummerHero.png?raw=true" href="https://www.drinktrade.com/pages/cold-coffee"></mj-image>
 
 
         <mj-image src="https://github.com/Marletios/Trade-Promotional-Email/blob/main/assets/SecureTheBag.png?raw=true" href="#">
@@ -64,131 +57,141 @@
 
       </mj-column>
 
-      
+
 
       <!-- 3 favorite coffees section-->
     </mj-section>
 
     <mj-section padding="0px">
       <mj-column>
-        <mj-image height="150px" width="150px" src="https://github.com/Marletios/Trade-Promotional-Email/blob/main/assets/MariaTrochez.png?raw=true"
-        href="#"
-        >
+        <mj-image height="150px" width="150px" src="https://github.com/Marletios/Trade-Promotional-Email/blob/main/assets/MariaTrochez.png?raw=true" href="#">
         </mj-image>
 
 
-        <mj-text >
-        <a href="https://www.drinktrade.com/collections/all?_kx=SgiE-vQpIsUgGby-TK-KXkZ1NiqdZ4qNMcoYC9hxLvVbo_RI7soserm4X3cvpIpZ.WmYpcv&utm_campaign=Newsletter-08032024-GWP-FreeCBBags-Lapsed&utm_id=01J47S96JY7530GMAM3PDZWCVP&utm_klaviyo_id=01ENK1MQ121XV3S344PRR2EPVK&utm_medium=email&utm_source=Klaviyo"
-
-        style="text-decoration: none;
+        <mj-text>
+          <a href="https://www.drinktrade.com/collections/all?_kx=SgiE-vQpIsUgGby-TK-KXkZ1NiqdZ4qNMcoYC9hxLvVbo_RI7soserm4X3cvpIpZ.WmYpcv&utm_campaign=Newsletter-08032024-GWP-FreeCBBags-Lapsed&utm_id=01J47S96JY7530GMAM3PDZWCVP&utm_klaviyo_id=01ENK1MQ121XV3S344PRR2EPVK&utm_medium=email&utm_source=Klaviyo" style="text-decoration: none;
         color:#31363F; 
         font-weight:bold;
         font-size:18px;
         text-align:center; 
         
-        "
-        >
-          Maria Trochez | Honduras | Washed
+        ">
+            Maria Trochez | Honduras | Washed
           </a>
-          </mj-text>
+        </mj-text>
 
 
-    
 
-          
+
+
       </mj-column>
 
 
       <mj-column>
-        <mj-image height="150px" width="150px" src="https://github.com/Marletios/Trade-Promotional-Email/blob/main/assets/ConnectionColdBrew.png?raw=true"
-        href="#"
-        >
+        <mj-image height="150px" width="150px" src="https://github.com/Marletios/Trade-Promotional-Email/blob/main/assets/ConnectionColdBrew.png?raw=true" href="#">
         </mj-image>
-        <mj-text >
-        <a href="https://www.drinktrade.com/collections/all?_kx=SgiE-vQpIsUgGby-TK-KXkZ1NiqdZ4qNMcoYC9hxLvVbo_RI7soserm4X3cvpIpZ.WmYpcv&utm_campaign=Newsletter-08032024-GWP-FreeCBBags-Lapsed&utm_id=01J47S96JY7530GMAM3PDZWCVP&utm_klaviyo_id=01ENK1MQ121XV3S344PRR2EPVK&utm_medium=email&utm_source=Klaviyo"
-
-        style="text-decoration: none;
+        <mj-text>
+          <a href="https://www.drinktrade.com/collections/all?_kx=SgiE-vQpIsUgGby-TK-KXkZ1NiqdZ4qNMcoYC9hxLvVbo_RI7soserm4X3cvpIpZ.WmYpcv&utm_campaign=Newsletter-08032024-GWP-FreeCBBags-Lapsed&utm_id=01J47S96JY7530GMAM3PDZWCVP&utm_klaviyo_id=01ENK1MQ121XV3S344PRR2EPVK&utm_medium=email&utm_source=Klaviyo" style="text-decoration: none;
         color:#31363F; 
         font-weight:bold;
         font-size:18px;
        
         
-        "
-        >
-          Connection Cold Brew Blend
+        ">
+            Connection Cold Brew Blend
           </a>
-          </mj-text>
+        </mj-text>
 
 
-      
+
 
       </mj-column>
 
       <mj-column>
         <mj-image height="150px" width="150px" src="https://github.com/Marletios/Trade-Promotional-Email/blob/main/assets/ColdBrewBlend.png?raw=true" href="#">
         </mj-image>
-          <mj-text >
-        <a href="https://www.drinktrade.com/collections/all?_kx=SgiE-vQpIsUgGby-TK-KXkZ1NiqdZ4qNMcoYC9hxLvVbo_RI7soserm4X3cvpIpZ.WmYpcv&utm_campaign=Newsletter-08032024-GWP-FreeCBBags-Lapsed&utm_id=01J47S96JY7530GMAM3PDZWCVP&utm_klaviyo_id=01ENK1MQ121XV3S344PRR2EPVK&utm_medium=email&utm_source=Klaviyo"
-
-        style="text-decoration: none;
+        <mj-text>
+          <a href="https://www.drinktrade.com/collections/all?_kx=SgiE-vQpIsUgGby-TK-KXkZ1NiqdZ4qNMcoYC9hxLvVbo_RI7soserm4X3cvpIpZ.WmYpcv&utm_campaign=Newsletter-08032024-GWP-FreeCBBags-Lapsed&utm_id=01J47S96JY7530GMAM3PDZWCVP&utm_klaviyo_id=01ENK1MQ121XV3S344PRR2EPVK&utm_medium=email&utm_source=Klaviyo" style="text-decoration: none;
         color:#31363F; 
         font-weight:bold;
         font-size:18px;
         text-align:center; 
         text-transform:capitalize;
         
-        "
-        >
-          Cold Brew Blend
+        ">
+            Cold Brew Blend
           </a>
-          </mj-text>
+        </mj-text>
 
 
-        
+
 
       </mj-column>
     </mj-section>
-    
-     <!--SHOP NOW ROW -->
+
+    <!--SHOP NOW ROW -->
     <mj-section>
-    <mj-column padding="0px">
-    <mj-text >
-        <a href="#"
-        style="
+      <mj-column padding="0px">
+        <mj-text>
+          <a href="#" style="
         color: #31363F; 
          font-size:18px; 
         ">
-      SHOP NOW </a> </mj-text>
+            SHOP NOW </a> </mj-text>
 
-   </mj-column> 
-    <mj-column padding="0px">
-    <mj-text >
-        <a href="#"
-        style="
+      </mj-column>
+      <mj-column padding="0px">
+        <mj-text>
+          <a href="#" style="
         color: #31363F; 
          font-size:18px; 
         ">
-      SHOP NOW </a> </mj-text>
+            SHOP NOW </a> </mj-text>
 
-   </mj-column> 
-    <mj-column padding="0px">
-    <mj-text >
-        <a href="#"
-        style="
+      </mj-column>
+      <mj-column padding="0px">
+        <mj-text>
+          <a href="#" style="
         color: #31363F; 
          font-size:18px; 
         ">
-      SHOP NOW </a> </mj-text>
+            SHOP NOW </a> </mj-text>
 
-   </mj-column> 
+      </mj-column>
     </mj-section>
     <!--End Shop Now -->
 
     <mj-divider border-color="#DDDDDD" border-width="1px" width="600px"></mj-divider>
+    <!-- Socials -->
+    <mj-section padding="0px">
+      <mj-column padding="0px">
+        <mj-raw>
+          <div style="padding: 10px 0 0 30px;" >
+            <img src="https://ci3.googleusercontent.com/meips/ADKq_Namhp5EX705ZAQVO2jR7j5GcXUJuUAMs2SogOgU6bUp3yM1SN1LxOyo_eWiJJVdh4oj7MHGK46cLVCQFG0ywEV02M_PLNPjhNt_Xrv4ZBTm6gP0cdNvtSm6592Lohv4nwIdXFeOIJja3NouGsC--31bkZjuUpR3sz27=s0-d-e1-ft#https://d3k81ch9hvuctc.cloudfront.net/company/WmYpcv/images/695e1fa1-df12-4074-af38-2e20c9b94d9e.png" alt="Image 1" style="height: 15px; width:15px; padding:20px 10px 0 0 ;" />
 
+
+            <img src="https://ci3.googleusercontent.com/meips/ADKq_NaA4WO2tD2kFZcBk2XLCDll_ze7askx6_sOmdFD2Ihg9ZsIUgVFvQ-VuBZ9VOr7DQTONPaUnXgctXYY2V5A2f59XHaQZAuZVBvC11ocNUNcFNdqkl_VJaR-jdRl2gdSldUrxGiAFyuI_f62uwtSQE-CHyZnuYAQlWup=s0-d-e1-ft#https://d3k81ch9hvuctc.cloudfront.net/company/WmYpcv/images/2e8e722d-b624-4e45-9ac7-7999b566f855.png" alt="Image 2" style="height:15px; width: 15px; padding:20px 10px 0 0 ;" />
+
+            <img src="https://github.com/Marletios/Trade-Promotional-Email/blob/main/assets/Instagram.png?raw=true" alt="Image 2" style="height:15px; width: 15px; padding:20px 10px 0 0 ;" />
+
+            <img src="https://github.com/Marletios/Trade-Promotional-Email/blob/main/assets/FaceBook.png?raw=true" alt="Image 2" style="height:15px; width: 15px; padding:20px 10px 0 0 ;" />
+
+          </div>
+
+        </mj-raw>
+
+
+      </mj-column>
+
+
+    </mj-section>
+
+
+    <!--End Socials -->
+    <!--Footer-->
     <mj-section background-color="#FFFFFF">
       <mj-column>
-        <mj-text>
+        <mj-text >
 
           ©2024 Seed Leaf Inc. All Rights Reserved. <br><br>
           205 W 37th St. Floor 14 New York, NY 10018
@@ -197,8 +200,8 @@
       <mj-column>
         <mj-text>
 
-          <span style="font-weight:550;"> Email: </span >support@drinktrade.com <br><br>
-         <span style="font-weight:550;"> Call: </span> 1(888) 252-8691 <br><br>
+          <span style="font-weight:550;  "> Email: </span>support@drinktrade.com <br><br>
+          <span style="font-weight:550;"> Call: </span> 1(888) 252-8691 <br><br>
           <span style="font-weight:550;">Text: </span>1(424) 238-3630 <br><br>
         </mj-text>
 
@@ -210,27 +213,27 @@
     </mj-section>
     <mj-section background-color="#FFFFFF">
       <mj-column>
-        <mj-text align="center">
+        <mj-text align="left">
 
-          
-          <a href="#" style="text-decoration:none; color: #686D76;" >  
-           Privacy Policy | 
-           </a>
-           
-         
 
-          
-          <a href="#" style="text-decoration:none; color: #686D76;" > 
-            Terms of Service |  
-            </a> 
-            
-          
-          
-          <a href="#" style="text-decoration:none; color: #686D76;" > 
-             Unsubscribe from Emails 
-             </a>
-             
-             
+          <a href="#" style="text-decoration:none; color: #686D76; text-transform: uppercase;">
+            Privacy Policy |
+          </a>
+
+
+
+
+          <a href="#" style="text-decoration:none; color: #686D76; text-transform: uppercase;">
+            Terms of Service |
+          </a>
+
+
+
+          <a href="#" style="text-decoration:none; color: #686D76; text-transform: uppercase;">
+            Unsubscribe from Emails
+          </a>
+
+
         </mj-text>
       </mj-column>
     </mj-section>
